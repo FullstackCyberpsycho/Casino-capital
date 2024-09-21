@@ -1,0 +1,3 @@
+﻿  Game_roulette.cpp
+C:\Users\Денис Киселев\source\repos\Casino capital\Game_roulette.cpp(14,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Casino capital.vcxproj -> C:\Users\Денис Киселев\source\repos\Casino capital\x64\Debug\Casino capital.exe
